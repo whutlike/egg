@@ -1,0 +1,18 @@
+{
+    "avatar": "images/avatar.jpg",
+    "name": "每日一化学",
+    "bio": "卷一天，躺一天的化学人<br>分享一点可能有用的化学资料",
+    "links": [
+        { "name": "博客",     "icon": "ri-weibo-fill",           "url": "https://blog.example.com" },
+        { "name": "文档",     "icon": "ri-book-open-line",         "url": "#" },
+        { "name": "下载",     "icon": "ri-download-cloud-2-line",  "url": "#" },
+        { "name": "测试",     "icon": "ri-flask-line",             "url": "#" },
+        { "name": "AI",       "icon": "ri-openai-line",            "url": "#" },
+        { "name": "工具",     "icon": "ri-tools-line",             "url": "#" }
+    ],
+    "contacts": {
+        "wechat": "WeChatID（微信）: edaychem",
+        "email": "Email（邮箱）: whutlike@163.com"
+    },
+    "footer": "© 2025 每日一化学 | 我爱化学 化学使我快乐"
+}
