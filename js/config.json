@@ -5,9 +5,9 @@
     "links": [
         { "name": "博客",     "icon": "ri-weibo-fill",           "url": "https://edaychem.cn" },
         { "name": "文档",     "icon": "ri-book-open-line",         "url": "https://doc.edaychem.cn" },
-        { "name": "下载",     "icon": "ri-download-cloud-2-line",  "url": "https://scinelee.ysepan.com" },
-        { "name": "刷题",     "icon": "ri-question-mark",             "url": "https://quiz.edaychem.cn" },
         { "name": "AI",       "icon": "ri-openai-line",            "url": "#" },
+        { "name": "刷题",     "icon": "ri-question-mark",             "url": "https://quiz.edaychem.cn" },
+        { "name": "下载",     "icon": "ri-download-cloud-2-line",  "url": "http://scienlee.ysepan.com/" },
         { "name": "工具",     "icon": "ri-tools-line",             "url": "#" }
     ],
     "contacts": {
