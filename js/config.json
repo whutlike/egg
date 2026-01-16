@@ -8,7 +8,7 @@
         { "name": "AI",       "icon": "ri-openai-line",            "url": "#" },
         { "name": "刷题",     "icon": "ri-question-mark",             "url": "https://quiz.edaychem.cn" },
         { "name": "下载",     "icon": "ri-download-cloud-2-line",  "url": "http://scienlee.ysepan.com/" },
-        { "name": "工具",     "icon": "ri-tools-line",             "url": "#" }
+        { "name": "工具",     "icon": "ri-tools-fill",             "url": "#" }
     ],
     "contacts": {
         "wechat": "WeChatID（微信）: edaychem",
