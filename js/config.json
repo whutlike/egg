@@ -4,7 +4,7 @@
     "bio": "卷一天，躺一天的化学人<br>分享一点可能有用的化学资料",
     "links": [
         { "name": "博客",     "icon": "ri-weibo-fill",           "url": "https://edaychem.cn" },
-        { "name": "文档",     "icon": "ri-book-open-line",         "url": "https://doc.edaychem.cn" },
+        { "name": "化学",     "icon": "ri-book-open-line",         "url": "https://doc.edaychem.cn" },
         { "name": "AI",       "icon": "ri-openai-line",            "url": "#" },
         { "name": "刷题",     "icon": "ri-question-mark",             "url": "https://quiz.edaychem.cn" },
         { "name": "下载",     "icon": "ri-download-cloud-2-line",  "url": "http://scienlee.ysepan.com/" },
